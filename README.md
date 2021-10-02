@@ -2,4 +2,6 @@
 
 ## 哈哈哈在这里我用到了我们在AI中经常使用的那张猫咪头像，测试图片样例如下：
 
-![image-20211002145812425](C:\Users\杨毓栋\AppData\Roaming\Typora\typora-user-images\image-20211002145812425.png)
+![image-20211002145812425](https://www.twoyl.cn/new_image.png)
+
+​																																				——图像部署于阿里云oss对象存储中
